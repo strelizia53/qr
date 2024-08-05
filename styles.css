@@ -51,3 +51,18 @@ button:hover {
 #qrcode {
   margin-top: 20px;
 }
+
+#download {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 10px 20px;
+  background-color: #28a745;
+  color: #fff;
+  border-radius: 5px;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+#download:hover {
+  background-color: #218838;
+}
